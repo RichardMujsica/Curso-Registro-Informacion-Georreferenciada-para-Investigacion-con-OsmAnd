@@ -71,4 +71,4 @@ _Exportar e importar registros geo referenciados._
 
 ## Acceso al curso
 Por el momento el curso de acceso gratuito. 
-Por favor ingresa tus datos es este [Formulario de registro](https://forms.gle/JB32DW4nAX5AvFA78).
+Por favor, ingresa tus datos en este [Formulario de Registro](https://forms.gle/JB32DW4nAX5AvFA78).
