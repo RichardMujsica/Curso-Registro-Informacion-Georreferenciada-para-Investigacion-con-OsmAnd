@@ -1,13 +1,13 @@
 # Curso-basico-Registro-Informacion-Georreferenciada-aplicado-a-la-Investigacion-con-OsmAnd
-Este curso busca fortalecer nuestros procesos de investigación incorporando el registro de información georrefrenciada (mapas) durante el trabajo de campo #antropología #sociología #cienciassociales
+Este curso busca fortalecer nuestros procesos de investigación incorporando el registro de información georrefrenciada (mapas) durante el trabajo de campo #antropología #sociología #cienciassociales #patrimoniocultural
 
 ---
 ## Curso básico de Registro de Información Georreferenciada aplicado a la Investigación mediante la App OsmAnd
 
 ## Presentación 
 Este curso parte de la necesidad de fortalecer nuestros procesos de investigación incorporando el registro de información georrefrenciada (mapas) en especial durante el trabajo de campo.
-La finalidad es proporcionar una herramienta digital que está en nuestras manos a partir del uso de un teléfono inteligente. Si bien existen herramientas dedicadas y de mayor precisión (GPS) para la goerreferenciación de datos, por su alto costo, no están al alcance de todos. La utilización de los mapas y la georrefereciación de la información registrada _in situ_, complementa el proceso de investigación, así como la fase de análisis e interpretación de datos.
-A partir de los objetivos de PachaKamani en la divulgación de investigaciones en el área cultural, social y antropológica, también queremos compartir herramientas que nos ayuden a aprovechar al máximo los procesos de investigación con recursos digitales.
+La finalidad es proporcionar una herramienta digital que está en nuestras manos a partir del uso de un teléfono inteligente. Si bien existen herramientas dedicadas y de mayor precisión (GPS) para la goerreferenciación de datos; por su costo, no están al alcance de todos. La utilización de los mapas y la georrefereciación de la información registrada _in situ_, complementa el proceso de investigación, así como la fase de análisis e interpretación de datos.
+A partir de los objetivos del [Colectivo PachaKamani](https://pachakamani.com/) en la divulgación de investigaciones en el área cultural, social y antropológica, también queremos compartir herramientas que nos ayuden a aprovechar al máximo los procesos de investigación con recursos digitales.
 Este Curso se compone de 5 videotutoriales introductorios para el uso de esta aplicación. 
 Gracias por visitar este sitio y por tu interés en este curso. Por favor escribe algún comentario y si tienes alguna duda o consulta puedes escribirnos a info@pachakamani.com
 
@@ -20,7 +20,7 @@ Gracias por visitar este sitio y por tu interés en este curso. Por favor escrib
 5. Exportar e importar registros geo referenciados
 
 ## Información adicional
-1. Es importante conocer la plataforma base de datos georreferenciados como es OSM, aquí pueden ingresar para conocer más de esta información.
+1. Es importante conocer la plataforma base de datos georreferenciados como es OSM, aquí pueden ingresar para conocer más de esta información: [OpenStreetMap](https://www.openstreetmap.org/#map=6/-16.400/-63.549)
 2. Sitio web Oficial de la Aplicación _OsmAnd_ (https://osmand.net/)
 
 ## Videotutoriales
@@ -68,3 +68,7 @@ _Exportar e importar registros geo referenciados._
 	- Procedimiento directo
 	- Procedimiento por selección de archivo
 	- Visualización
+
+## Acceso al curso
+Por el momento el curso de acceso gratuito. 
+Por favor ingresa tus datos es este [Formulario de registro](https://forms.gle/JB32DW4nAX5AvFA78).
